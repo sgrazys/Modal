@@ -2,7 +2,6 @@
 
 This project was made by learning purpose only, following tutorial [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/).
 
-
 ## 🌟 About
 
 This is my learning JavaScript basic project.
@@ -11,9 +10,7 @@ Web page published at: [https://sgrazys.github.io/Modal/](https://sgrazys.github
 
 ## 🎯 Project features/goals
 
-- DOM manipulation 
-- Component creation
-- Modal
+-   DOM classes manipulation
 
 ## 🧰 Getting Started
 
@@ -62,8 +59,8 @@ Saulius: [Github](https://github.com/sgrazys)
 
 ## 🔗 Other resources
 
-
 ## 📫 Reach me
-- [LinkedIn](https://www.linkedin.com/in/saulius-grazys/)
 
-- [Mail](mailto:s.grazys@gmail.com)
+-   [LinkedIn](https://www.linkedin.com/in/saulius-grazys/)
+
+-   [Mail](mailto:s.grazys@gmail.com)
