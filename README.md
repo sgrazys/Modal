@@ -7,12 +7,13 @@ This project was made by learning purpose only, following tutorial [The Complete
 
 This is my learning JavaScript basic project.
 
-Web page published at: [https://sgrazys.github.io/Guess-My-Number/](https://sgrazys.github.io/Guess-My-Number/)
+Web page published at: [https://sgrazys.github.io/Modal/](https://sgrazys.github.io/Modal/)
 
 ## 🎯 Project features/goals
 
 - DOM manipulation 
 - Component creation
+- Modal
 
 ## 🧰 Getting Started
 
@@ -36,7 +37,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/sgrazys/Guess-My-Number.git
+    git clone https://github.com/sgrazys/Modal.git
     ```
 2. Install NPM packages
     ```
