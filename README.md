@@ -11,6 +11,7 @@ Web page published at: [https://sgrazys.github.io/Modal/](https://sgrazys.github
 ## 🎯 Project features/goals
 
 -   DOM classes manipulation
+-   Key press event & esc button handling
 
 ## 🧰 Getting Started
 
